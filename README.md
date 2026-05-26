@@ -2,8 +2,192 @@
 
 This site shows my personal collection of BC Transit Victoria vehicle.
 
-## Routes
+## Fleet Numbers
 
-### Route 14
+### 1. 1152/1155/1157-1161/1163-1185
+
+**Year:** 2019
+**Manufacturer:** New flyer
+
+![Route 26 - 1185](./images/Route%2026%20-1185.jpeg)
+
+### 2. 1186-1192
+
+**Year:** 2020
+**Manufacturer:** New flyer
+
+![1192](./images/1192.jpeg)
+
+### 3. 1223-1232
+
+**Year:** 2021
+**Manufacturer:** New flyer
+
+![Route 39 - 1224](./images/Route%2039%20-%201224.jpeg)
+
+### 4. 1233-1253
+
+**Year:** 2022
+**Manufacturer:** New flyer
 
 ![Route 14 - 1244](./images/Route14%20-%201244.jpeg)
+
+### 5. 1256/1258
+
+**Year:** 2024
+**Manufacturer:** New flyer
+
+![Route 15 - 1258](./images/Route%2015%20-%201258.jpeg)
+
+### 6. 1274-1277
+
+**Year:** 2025
+**Manufacturer:** New flyer
+
+![Route 39 - 1274](./images/Route%2039%20-%201274.jpeg)
+
+### 7. 4200-4214/4216-4224
+
+**Year:** 2020
+**Manufacturer:** Grande West
+
+![Route 3 - 4211](./images/Route%203%20-%204211.jpeg)
+
+### 8. 4234-4248
+
+**Year:** 2022
+**Manufacturer:** VMC
+
+![Route 60 - 4237](./images/Route%2060%20-%204237.jpeg)
+
+### 9. 7500-7524
+
+**Year:** 2025
+**Manufacturer:** NFI
+
+![Route 15 - 7517](./images/Route%20-%2015%20-%207517.jpeg)
+
+### 10. 9047(Retired 2025)
+
+![Route 72 - 9047](./images/Route%2072%20-%209047.jpeg)
+
+### 11,9287
+
+**Year:** 2008
+**Manufacturer:** Nova Bus
+
+![Route 7 - 9287](./images/Route%207%20-%209287.jpeg)
+
+### 12. 9303/9308/9310/9312/9314
+
+**Year:** 2008
+**Manufacturer:** Nova Bus
+
+![Route 4 - 9312](./images/Route%204%20%20-%209312.jpeg)
+
+### 13. 9332-9335/9339/9342/9345/9347/9355-9360/9362-9366/9368-9372/9375-9379/9381-9385/9387-9388/9390-9395/9398-9399/9403-9415/9417-9422/9424-9426/9428/9431-9433
+
+**Year:** 2009
+**Manufacturer:** Nova Bus
+
+![Route 26 - 9384](./images/Route%2026%20-%209384.jpeg)
+
+### 14. 9434 (Santa bus in 2025)(Smart bus)
+
+**Year:** 2012 
+Manfacturer : Nova Bus
+
+![Route 4 - 9434](./images/Route%204%20-%209434.jpeg)
+
+![Route 30 - Santa Bus 2025 - 9434](./images/Route%2030%20-%20Santa%20Bus%202025%20-%209434.jpeg)
+
+### 15. 9435-9446
+
+**Year:** 2013 
+**Manufacturer:** Nova bus
+
+![Route 26 - 9444](./images/Route%2026%20-%209444.jpeg)
+
+### 16. 9452-9453/9455-9458/9460-9477/9480-9481/9483-9486
+
+**Year:** 2015
+**Manufacturer:** Nova bus
+
+![Route 26 - 9484](./images/Route%2026%20%20-%209484.jpeg)
+
+### 17. 9501-9506/9508-9522/9524-9526
+
+**Year:** 2008
+**Manufacturer:** Alexander Dennis
+
+![Route 72 - 9501](./images/Route%2072%20-%209501.jpeg)
+
+### 18. 9528
+
+**Year:** 2007
+**Manufacturer:** Alexander Dennis
+
+### 19. 9529-9531
+
+**Year:** 2008
+**Manufacturer:** Alexander Dennis
+
+![Route 4 - 9529](./images/Route%204%20-%209529.jpeg)
+
+20,9532-9542
+**Year:** 2020
+**Manufacturer:** Alexander Dennis
+
+![Route 95 - 9540](./images/Route%2095%20-%209540.jpeg)
+
+### 21. 9543-9550
+
+**Year:** 2021
+**Manufacturer:** Alexander Dennis
+
+![Route 95 - 9550](./images/Route%2095%20-%209550.jpeg)
+
+### 22. 9551-9589
+
+**Year:** 2025
+**Manufacturer:** Alexander Dennis
+
+![Route 26 - 9554](./images/Route%2026%20-%209554.jpeg)
+
+## HandyDART bus of BC Transit
+
+### 1. 2692/2694-2696.2698-2700/2718-2719/2722
+
+**Year:** 2020
+
+### 2. 2757-2762/2764-2772
+
+**Year:** 2021
+
+![HandyDART-2769](./images/HandyDART%20-2769.jpeg)
+
+### 3. 2787-2790
+
+**Year:** 2021
+
+![HandyDART-2787](./images/HandyDART%20-2787.jpeg)
+
+### 4. 2839,2851
+
+**Year:** 2022
+
+### 5. 2868-2869/2883-2886/2891-2895
+
+**Year:** 2023
+
+### 6. 2911-2912/2916-2919/2925-2928
+
+**Year:** 2024
+
+![HandyDART-2925](./images/HandyDART%20-2925.jpeg)
+
+### 7. 3278-3290/3301
+
+**Year:** 2024/2025
+
+![HandyDART-3284](./images/HandyDART%20-3284.jpeg)
