@@ -1,5 +1,4 @@
-
-A curated collection of BC Transit Victoria vehicle photographs.
+A curated collection of BC Transit Victoria vehicle photographs taken by Yufan Li, a transit enthusiast.
 
 - [Fleet Numbers](#fleet-numbers)
   - [1. 1152/1155/1157-1161/1163-1185](#1-115211551157-11611163-1185)
